@@ -1,0 +1,10 @@
+location of main files:
+
+register
+src->features->user
+
+login
+src->components
+
+store
+src->app
